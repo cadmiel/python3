@@ -16,7 +16,7 @@ opcao=True
 prefixDirectory = 'Doc/'
 
 while opcao:
-    # os.system('clear')
+    os.system('clear')
 
     searchTerm = input('Procurar por: ')
 
@@ -27,18 +27,6 @@ while opcao:
             body = ''
             body = str( textract.process(prefixDirectory+filename) )
             __file.search(body, searchTerm, filename)
-            # if('.docx' in filename):
-            #     body = docx2txt.process(prefixDirectory+filename)
-            #     __file.search(body, searchTerm, filename)
-            # elif('.txt' in filename):
-            #     body = open(prefixDirectory + filename, mode='r+')
-            #     __file.search(body.read(), searchTerm, filename)
-            #     body.close()
-            # else:
-            #     __file.append(
-            #         {'term':searchTerm,'filename':filename,
-            #          'msg':'extensão('+filename.split('.')[-1]+') não suportada!!!'}
-            #     )
         except Exception as error:
             print('Erro:',error)
 
