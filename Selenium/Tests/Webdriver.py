@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.keys import Keys
 
-#driver = webdriver.Chrome('/Users/victor/Downloads/chromedriver_')
+#driver = webdriver.Chrome('/Users/victor/Downloads/mac')
 driver = webdriver.Chrome('C:/Users/T41533/Downloads/chromedriver')
 
 try:

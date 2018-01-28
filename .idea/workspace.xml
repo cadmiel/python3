@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5cdeb6d9-2687-4b74-a1dc-b3aff9d8b24d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Search/Files/App.py" afterPath="$PROJECT_DIR$/Search/Files/App.py" />
-      <change beforePath="$PROJECT_DIR$/Selenium/Webdriver.py" afterPath="$PROJECT_DIR$/Selenium/Tests/Webdriver.py" />
+      <change beforePath="$PROJECT_DIR$/Selenium/ICS/Encomenda.py" afterPath="$PROJECT_DIR$/Selenium/ICS/Encomenda.py" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Tests/Webdriver.py" afterPath="$PROJECT_DIR$/Selenium/Tests/Webdriver.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +18,7 @@
       <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/API/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
+            <state relative-caret-position="0">
               <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="21" />
               <folding />
             </state>
@@ -38,22 +38,40 @@
       <file leaf-file-name="Encomenda.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Selenium/ICS/Encomenda.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="54">
+              <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Criar.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Selenium/ICS/Criar.py">
+      <file leaf-file-name="Pessoa.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pessoa.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="39" column="29" lean-forward="false" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+            <state relative-caret-position="144">
+              <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GitHubRep.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GitHubRep.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Webdriver.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Selenium/Tests/Webdriver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
-                <element signature="e#0#23#0" expanded="true" />
+                <element signature="e#0#22#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,9 +88,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>subm</find>
-      <find>//*[@id=&quot;dhtmlgoodies_listItem3&quot;]</find>
-      <find>&lt;a href=&quot;encomenda_reg.php&quot;&gt;&lt;div&gt;e&amp;nbsp;AWB&lt;/div&gt;&lt;/a&gt;</find>
       <find>#dhtmlgoodies_listItem3 &gt; a</find>
       <find>fa</find>
       <find>len(</find>
@@ -100,6 +115,9 @@
       <find>coleta</find>
       <find>fake</find>
       <find>driver</find>
+      <find>executable_path</find>
+      <find>os.</find>
+      <find>platform</find>
     </findStrings>
     <replaceStrings>
       <replace>print//</replace>
@@ -140,16 +158,16 @@
         <option value="$PROJECT_DIR$/Selenium/ICS/AWB.py" />
         <option value="$PROJECT_DIR$/Selenium/ICS/Coleta.py" />
         <option value="$PROJECT_DIR$/Selenium/ICS/Awb.py" />
-        <option value="$PROJECT_DIR$/Selenium/ICS/Encomenda.py" />
         <option value="$PROJECT_DIR$/Selenium/ICS/Criar.py" />
+        <option value="$PROJECT_DIR$/Selenium/ICS/Encomenda.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="352" />
-    <option name="y" value="46" />
-    <option name="width" value="1051" />
-    <option name="height" value="707" />
+    <option name="x" value="49" />
+    <option name="y" value="6" />
+    <option name="width" value="1249" />
+    <option name="height" value="742" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -169,39 +187,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="RepPython3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RepPython3" type="462c0819:PsiDirectoryNode" />
+              <item name="treinamento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treinamento" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RepPython3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RepPython3" type="462c0819:PsiDirectoryNode" />
-              <item name="API" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RepPython3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RepPython3" type="462c0819:PsiDirectoryNode" />
-              <item name="Search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RepPython3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RepPython3" type="462c0819:PsiDirectoryNode" />
-              <item name="Search" type="462c0819:PsiDirectoryNode" />
-              <item name="Files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RepPython3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RepPython3" type="462c0819:PsiDirectoryNode" />
+              <item name="treinamento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treinamento" type="462c0819:PsiDirectoryNode" />
               <item name="Selenium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RepPython3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RepPython3" type="462c0819:PsiDirectoryNode" />
+              <item name="treinamento" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treinamento" type="462c0819:PsiDirectoryNode" />
               <item name="Selenium" type="462c0819:PsiDirectoryNode" />
               <item name="ICS" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -209,6 +209,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,17 +218,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Selenium" />
+      <recent name="C:\Users\T41533\PycharmProjects\RepPython3\Selenium" />
+      <recent name="C:\Users\T41533\PycharmProjects\RepPython3\Search\Files\Doc" />
+      <recent name="C:\Users\T41533\PycharmProjects\RepPython3\Search\Files" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\T41533\PycharmProjects\RepPython3\Selenium\Test" />
       <recent name="C:\Users\T41533\PycharmProjects\RepPython3\Search\Files\Doc" />
       <recent name="C:\Users\T41533\PycharmProjects\RepPython3\Search\Files" />
       <recent name="C:\Users\T41533\PycharmProjects\RepPython3\Search" />
       <recent name="C:\Users\T41533\PycharmProjects\RepPython3\API" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\T41533\PycharmProjects\RepPython3\Selenium" />
-      <recent name="C:\Users\T41533\PycharmProjects\RepPython3\Search\Files\Doc" />
-      <recent name="C:\Users\T41533\PycharmProjects\RepPython3\Search\Files" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -278,13 +281,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1280" height="747" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22986111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32822084" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34150326" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -309,49 +311,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/wikipedia/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/google/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="199" column="67" lean-forward="false" selection-start-line="199" selection-start-column="61" selection-end-line="199" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/wikipedia/wikipedia.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/wikipedia/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/google/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/wikipedia/wikipedia.py" />
     <entry file="file://$PROJECT_DIR$/email.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/email/mime/text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/email/mime/multipart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/smtplib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="875" column="23" lean-forward="true" selection-start-line="875" selection-start-column="23" selection-end-line="875" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/email/mime/text.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/email/mime/multipart.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/smtplib.py" />
     <entry file="file://$PROJECT_DIR$/API/handle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -361,20 +327,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/API/lib/__init__.py" />
     <entry file="file://$PROJECT_DIR$/API/lib/Teste.py" />
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1945527320/_sqlite3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="267" column="26" lean-forward="false" selection-start-line="267" selection-start-column="26" selection-end-line="267" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/flask/blueprints.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="127" column="35" lean-forward="false" selection-start-line="127" selection-start-column="35" selection-end-line="127" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1945527320/_sqlite3.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/flask/blueprints.py" />
     <entry file="file://$PROJECT_DIR$/Search/Google/Search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -389,28 +343,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1945527320/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="339" column="12" lean-forward="false" selection-start-line="339" selection-start-column="12" selection-end-line="339" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/docx2txt/docx2txt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="80" column="37" lean-forward="true" selection-start-line="80" selection-start-column="37" selection-end-line="80" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/docx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="245" column="65" lean-forward="false" selection-start-line="245" selection-start-column="57" selection-end-line="245" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1945527320/builtins.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/docx2txt/docx2txt.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/docx.py" />
     <entry file="file://$PROJECT_DIR$/API/db.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -436,7 +371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="103" lean-forward="false" selection-start-line="10" selection-start-column="103" selection-end-line="10" selection-end-column="103" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -444,7 +378,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -464,32 +397,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/Tests/print/email.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/Tests/Webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/error_exception.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/support/select.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="66" column="31" lean-forward="false" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium/Tests/print/email.png" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/error_exception.png" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/support/select.py" />
     <entry file="file://$PROJECT_DIR$/resultGitHubRep.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -498,9 +408,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/API/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/faker/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/chrome/webdriver.py" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/awb_1516724851.png" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/awb_1516724921.png" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/awb_1516726165.png" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/username.png" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/password.png" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/awb_1516728197.png" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/final_1516728515.png" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/casamento_1516728515.png" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/coleta_1516728515.png" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/final_1516733332.png" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/coleta_1516733332.png" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/casamento_1516733332.png" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/awb_1516733332.png" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/apos_aprovacao_coleta_1516733332.png" />
+    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/antes_aprovar_coleta_1516733332.png" />
     <entry file="file://$PROJECT_DIR$/Pessoa.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="144">
           <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           <folding />
         </state>
@@ -508,127 +443,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GitHubRep.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="126">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/faker/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="32" column="38" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/awb_1516724851.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/awb_1516724921.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/awb_1516726165.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/username.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/password.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/awb_1516728197.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/final_1516728515.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/casamento_1516728515.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/coleta_1516728515.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/final_1516733332.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/coleta_1516733332.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/casamento_1516733332.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/awb_1516733332.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/apos_aprovacao_coleta_1516733332.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/ICS/print/antes_aprovar_coleta_1516733332.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Selenium/ICS/Encomenda.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="32" column="6" lean-forward="false" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="54">
+          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Selenium/ICS/Criar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="39" column="29" lean-forward="false" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+        <state relative-caret-position="27">
+          <caret line="2" column="48" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium/Tests/Webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#22#0" expanded="true" />
           </folding>
         </state>
       </provider>
