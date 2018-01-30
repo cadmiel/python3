@@ -27,7 +27,7 @@ class Login:
 
         user = input('login: ').strip()
         if len(user) == 0:
-            user = 'teste'
+            user = 'cadmiel'
 
         username.send_keys(user)
         self.driver.get_screenshot_as_file('print//username.png')
@@ -37,7 +37,7 @@ class Login:
 
         password = input('senha: ').strip()
         if len(password) == 0:
-            password = 'teste'
+            password = 'cadmiel1!'
 
         pwd.send_keys(password)
         self.driver.get_screenshot_as_file('print//password.png')
